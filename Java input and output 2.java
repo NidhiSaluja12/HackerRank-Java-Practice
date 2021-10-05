@@ -9,7 +9,6 @@ public class Solution {
         double d = scan.nextDouble();
         String s = scan.nextLine();
         s = scan.nextLine();
-
         
         System.out.println("String: " + s);
         System.out.println("Double: " + d);
